@@ -24,3 +24,5 @@ public class AffichageIdentite {
         System.out.println(); // Nouvelle ligne pour la lisibilité
     }
 }
+
+
