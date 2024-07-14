@@ -18,3 +18,6 @@ public class RechercheMax {
         System.out.println("Le plus grand élément du tableau est : " + max);
     }
 }
+
+
+
